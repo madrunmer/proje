@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	margin:0px;
+	padding:0px;
+		
+}
+#dumper
+{
+	width:100%;
+	height:100%;
+	background:#eeeeee;
+}
+#header
+{
+	width:100%;
+	height:150px;
+	background:#7F88FC;
+}
+#headeric
+{
+	width:1200px;
+	height:150px;	
+	margin:auto;
+}
+#headermenu
+{
+	background-color:;
+	color:black;
+	margin:auto;
+	height: 30px;
+	width:700px;
+}
+#content
+{
+	width:100%;
+	height:800px;
+	background:#eeeeee;
+	
+}
+#contentic
+{
+	width:1200px;
+	height:800px;
+	margin:auto;
+	background:#eeeeee;
+
+}
+#footer
+{
+	width:100%;
+	height:100px;
+	background:#7F88FC;
+	float:both;
+}
+#footeric
+{
+	width:1200px;
+	height:100px;
+}
